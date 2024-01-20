@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_merlinx.mk
+    $(LOCAL_DIR)/lineage_merlinx.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_merlinx-user \
-    superior_merlinx-userdebug \
-    superior_merlinx-eng
+    lineage_merlinx-user \
+    lineage_merlinx-userdebug \
+    lineage_merlinx-eng
